@@ -1,8 +1,15 @@
-## Source: http://people.cst.cmich.edu/danie1je/index_files/RED.txt
+## Script source: http://people.cst.cmich.edu/danie1je/index_files/RED.txt
+
+## Author: Dr. John E. Daniels
+## Author website: http://people.cst.cmich.edu/danie1je/
 
 ## This is an example R-code for the forensic data set used in the
 ## Robust Estimate of Grade Differences (RED)  A more generic function,
 ## that can be used on any R dataframe is being written at this time.
+
+## An example data set for this script can be found in the /rsrc/ folder of this repository.
+## Data set source: http://people.cst.cmich.edu/danie1je/index_files/forensic.csv
+## Google Drive mirror: https://drive.google.com/drive/folders/0BzyeXzFTSIKcQllLTGxyc3ZVaEk?usp=sharing
 
 attach(forensic2)
 teeth<-(forensic2)

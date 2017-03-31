@@ -1,5 +1,7 @@
 ## Source: http://www.anthropology.uw.edu.pl/05/MMD.R
 
+## Author: Arkadiusz Soltysiak
+
 ## This script is a supplementary file to the following paper:
 ## Soltysiak A. (2011), Technical Note: An R script for Smith's Mean Measure of Divergence,
 ## "Bioarchaeology of the Near East" 5:41-44.
